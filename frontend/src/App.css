@@ -1,0 +1,25 @@
+.center{
+  text-align: center;
+}
+.login-box{
+  display: inline-block;
+  width: 350px;
+}
+.login-box-container{
+  margin-top: 10%;
+  text-align: center;
+}
+.header-div {
+  height: 30px;
+  background-color: #e8e8e8;
+  text-align: right;
+  padding-right: 13px;
+  margin-top: 11px;
+  vertical-align: middle;
+}
+.header-div span{
+  cursor: pointer;
+}
+.login-box .field {
+  text-align: left;
+}
